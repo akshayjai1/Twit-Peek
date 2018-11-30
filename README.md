@@ -1,7 +1,7 @@
 #  Frontend Code Challenge
-# author Akshay Vijay Jain
-# email  theakshay.jain@gmail.com
-# skype  learnakshayjain
+## author Akshay Vijay Jain
+## email  theakshay.jain@gmail.com
+## skype  learnakshayjain
 ## Setup
 
 Install the project dependencies:
