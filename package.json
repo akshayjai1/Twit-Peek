@@ -1,0 +1,11 @@
+{
+  "name": "makeschoool-challenge",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "nodemon": "^1.18.7",
+    "twitter-proxy": "^2.0.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
