@@ -1,0 +1,1 @@
+.page-body{display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-areas:"tOne tTwo tThree"}.twit-col-1{background:red;grid-area:tOne}.twit-col-2{background:#2cc459;grid-area:tTwo}.twit-col-3{background:#f0db20;grid-area:tThree}
